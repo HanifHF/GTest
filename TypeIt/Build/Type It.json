@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hanif",
+"dataUrl": "Type It.data.unityweb",
+"wasmCodeUrl": "Type It.wasm.code.unityweb",
+"wasmFrameworkUrl": "Type It.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
